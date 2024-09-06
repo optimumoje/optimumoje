@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Opeyemi Ojeleye.
 - 👀 I’m interested in Data Science, AI and Machine learning.
 - 🌱 I’m currently learning Deep learning 
-- 💞️ I’m looking to collaborate on any Data science, Machine learning projects. 
+- 💞️ I’m ready to collaborate on any Data science, Machine learning projects. 
 - 📫 You can reach me through oppyoptimum@gmail.com 
 
 <!---
